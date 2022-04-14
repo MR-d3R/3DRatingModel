@@ -112,7 +112,7 @@ view_matrix[14] = view_matrix[14] - 6;
 
 /*================= Mouse events ======================*/
 
-var AMORTIZATION = 0.95;
+var AMORTIZATION = 0.5;
 var drag = false;
 var old_x, old_y;
 var dX = 0, dY = 0;
